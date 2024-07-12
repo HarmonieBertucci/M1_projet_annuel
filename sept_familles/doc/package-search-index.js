@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sept_familles.ia"},{"l":"sept_familles.ia.minmax"},{"l":"sept_familles.jeu"},{"l":"sept_familles.jeu.actions"},{"l":"sept_familles.main"}];updateSearchResults();
